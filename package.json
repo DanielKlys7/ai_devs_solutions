@@ -12,13 +12,15 @@
   "dependencies": {
     "@mendable/firecrawl-js": "^1.25.1",
     "@types/jszip": "^3.4.0",
+    "@types/unzipper": "^0.10.11",
     "bcrypt": "^6.0.0",
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
     "jszip": "^3.10.1",
     "langfuse": "^3.37.2",
-    "openai": "^4.98.0",
+    "openai": "^4.103.0",
     "tsx": "^4.19.4",
+    "unzipper": "^0.12.3",
     "uuid": "^11.1.0"
   },
   "devDependencies": {
